@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5C52452D-C67E-419A-BF14-D4752382EB8D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 337,
+  "do_objectID": "D851A046-6CB0-4E93-A53C-DC83DBB116D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B14BE54B-90D3-47B7-84FA-9E73D9B9A4A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23BA4393-66FC-4EFF-ADA7-A816FB4BD31C",
+    "height": 24,
+    "width": 24,
+    "x": -1060,
+    "y": 901
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E946EEF8-7FDA-4103-BE2C-6B3EE02D07C5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7071ECD8-279B-4FC2-9778-3A4660CB6D60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA15C9C9-F37E-4C81-86E9-1F79E58A27DE"
+    }
+  ],
+  "name": "icon/action/trending_flat_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3384A855-5830-47A3-B59C-3288ABCDF585",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AF5D7393-F3D4-445E-BD89-B1FFE4A48BEE",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/action/trending_flat_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "071AC7C2-04C5-48AA-992E-58F29C325601",
+    "guides": [
+    ]
+  }
+}

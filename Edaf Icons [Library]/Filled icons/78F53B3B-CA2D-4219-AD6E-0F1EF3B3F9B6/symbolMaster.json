@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8DDE6D20-87D4-41AD-9705-4C0C841CC17D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 548,
+  "do_objectID": "78F53B3B-CA2D-4219-AD6E-0F1EF3B3F9B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC47E8EB-884F-4F5C-A941-7FCDFF935ECA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "038BFBA3-794C-45FE-8EC5-22C8EB4D1120",
+    "height": 24,
+    "width": 24,
+    "x": 1611,
+    "y": 565
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "65FCAE28-A362-4A24-9A61-8F9F54804F91",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A3F31EC-7841-42F1-BA95-EAC31CEB6B49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A65CF77-32F0-45F2-8B26-D9CAADA0D628"
+    }
+  ],
+  "name": "icon/image/wb_sunny_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1735EEC-089C-46B1-9F89-92B854132EFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B46021B1-4733-4DA0-9654-623EEC903F12",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/image/wb_sunny_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "67719D62-BF52-4705-94CB-4D8DC778E379",
+    "guides": [
+    ]
+  }
+}

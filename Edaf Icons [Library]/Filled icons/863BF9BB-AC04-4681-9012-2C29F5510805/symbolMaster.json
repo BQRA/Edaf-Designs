@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7173C75D-D3E4-45B2-AE6C-EC8DA621D947",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 426,
+  "do_objectID": "863BF9BB-AC04-4681-9012-2C29F5510805",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D06A8E4-6BB3-4278-B4E2-75A668922BE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD2222BF-C1D8-4648-9574-A69F469741BC",
+    "height": 24,
+    "width": 24,
+    "x": 1227,
+    "y": 805
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EFA29D48-4A8F-4C02-831F-9CD8479F22E0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A0662E68-02C3-4B55-BC60-CBD4A6BCA4F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57EC8B91-131E-4A70-8694-D6C1EBA4AB54"
+    }
+  ],
+  "name": "icon/maps/fastfood_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BADCFF0-B059-457E-AB6F-BCD34B54D2A7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8424ABA1-E291-4F61-A8B3-7232C849A90D",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/maps/fastfood_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E4975AE2-2B02-4916-AA55-176583D905D9",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3DB279E1-F410-4850-B066-EF10EF623894",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 252,
+  "do_objectID": "3BEF16AB-CA76-46B0-A9CD-33C2576B5C05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "712EB7EC-61DE-4EE9-90C7-62025DB9C274",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0DB9B97-044F-415A-BFD6-39657D1DB702",
+    "height": 24,
+    "width": 24,
+    "x": -300,
+    "y": 613
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "76672517-DAFE-4B6A-A9CB-6D56FBEA9543",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "44AE6454-911F-4297-8D2B-1E153E5F9404"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85DF0C89-BAB0-49A0-B5F6-098BF54C643E"
+    }
+  ],
+  "name": "icon/communication/email_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8B56444-0DDF-4CB1-8991-ECD4FD0D4502",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A435E306-7F3D-4039-ABFA-D09CC94C9F91",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/communication/email_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0C1520FB-0CD8-44C2-8316-CE70C47CD4AE",
+    "guides": [
+    ]
+  }
+}

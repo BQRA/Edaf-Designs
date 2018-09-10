@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B6DB3B53-1F2D-498C-BE58-65331E3651C8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 393,
+  "do_objectID": "91DA6845-3056-41FC-BBC8-107BB33F1995",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "810EE0A8-B5A2-4EA6-B0D6-0A1508985C15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E46DFAD2-4D24-4469-AAB8-1A7CCEA917F1",
+    "height": 24,
+    "width": 24,
+    "x": 2120,
+    "y": 277
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "34815A11-E127-4E32-B660-C104BF58BEE4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "61B60117-5770-407C-A4B9-999814EB4E38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBB57118-DF7E-422C-918A-9CE2D411FEA7"
+    }
+  ],
+  "name": "icon/notification/phone_missed_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0EF1767-A0D3-4A0C-A6EE-EACE21A6CEE4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "99602838-7912-4D98-95B5-ABDABF5CB8B0",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/notification/phone_missed_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F990AF81-26BF-4769-B086-B5531F0013D6",
+    "guides": [
+    ]
+  }
+}

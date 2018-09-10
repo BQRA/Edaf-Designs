@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9226FF83-4E39-420C-9115-1F8027B698CB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 356,
+  "do_objectID": "F6385E22-A84E-434E-83AF-3F504949DBF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A7837F9-8119-42C1-9D4F-FE17ACE07399",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04AF7792-2B10-4EF8-A9A7-050939F59062",
+    "height": 24,
+    "width": 24,
+    "x": 2024,
+    "y": 277
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F34DC230-2F5B-482D-8269-BAF0A148D19E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "68BD8FB1-F5CE-4AA4-AAD8-1AC424AF2164"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4DB482E-2519-448C-86FD-57020F37CD8E"
+    }
+  ],
+  "name": "icon/notification/phone_in_talk_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E8F0331-CF1F-425B-B710-544428CBD5F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF0B5251-BDE6-4B7D-844A-6B6AF3E6298C",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/notification/phone_in_talk_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "41F07EC6-D37C-4495-AAF1-631F0EE1D348",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E30097E4-5AAA-44CF-B699-4FAD21BACDEA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 326,
+  "do_objectID": "FFC43F7B-E614-42EA-B2ED-D566F47D6508",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DCCB5FD-49DE-460D-94B5-38B4383C08C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39370618-114C-4580-818C-E70D0754249F",
+    "height": 24,
+    "width": 24,
+    "x": 766,
+    "y": 565
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9D49840B-16F3-4805-8E08-D3A3BBFCC16E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3866A499-27BD-481B-94A6-A37105A4BBA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF2679A6-7979-4785-96F5-1E3A92750F0D"
+    }
+  ],
+  "name": "icon/hardware/headset_mic_24px",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27E95992-49D1-40D6-9DBD-2C774B09E307",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D4B2F34F-6126-494C-B3CE-455C79FACCF6",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/hardware/headset_mic_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "856CD316-D387-41F0-B8FB-0334E375BF54",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5CB4365F-39DF-4734-BB7D-38A9DDA310CF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 852,
+  "do_objectID": "94D23424-4BB8-4CC9-B673-256D7448C31E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7BA6EBB-18A4-4402-A4BD-E238CB035339",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D54FFB4-5F2B-437D-B170-733BBE92B5D1",
+    "height": 24,
+    "width": 24,
+    "x": 306,
+    "y": 469
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7E14E6C4-8A95-4C35-B0C6-61D270A1FF5B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "43A55E72-9219-4CD7-8EE9-4ADEABAB9F41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C456455-CB07-4484-A98E-D7E229D2FE2A"
+    }
+  ],
+  "name": "icon/device/wifi_tethering_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F297E1EE-2C19-41FC-8669-4A62DB8441D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FF5F48E5-E46D-43E6-B6BB-D6A0085999EF",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/device/wifi_tethering_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B217EC0E-A51E-45D6-BB7D-E75434257739",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DB572033-7AA4-4C3F-89F3-07458E7AFC37",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 904,
+  "do_objectID": "5DEC6F13-EBF7-4AA6-91D9-78AB724D8540",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DC68A2B-D712-4715-938A-5EAFDF2FB596",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C99F5509-1F48-43B1-AA5C-0D21D7FFB40A",
+    "height": 24,
+    "width": 24,
+    "x": 670,
+    "y": 325
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FC54AC3E-4868-4A84-AA8C-AFF8B0B21FC8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0A210C67-E2F6-458E-8623-08FFC3AF93DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F168363-DD11-4431-AB1A-CAEE1541DE53"
+    }
+  ],
+  "name": "icon/file/cloud_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31E3A566-AF98-43F6-805B-7E7F737BF4D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "827EA028-70D8-4614-BECD-2FFBAC528823",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/file/cloud_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D62A8244-8B68-4719-BD5D-C31C4E89DB9C",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2F90F702-D785-4A6E-A8EA-89EA9E4933B1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 337,
+  "do_objectID": "9408AA15-307A-49F8-B79B-D56B9A17F029",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79D4C276-3776-423E-BD85-39B3046B7FFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "508A673C-DEA6-4EC0-82CB-C335012DCCCD",
+    "height": 24,
+    "width": 24,
+    "x": -1012,
+    "y": 469
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E961A0E3-F49E-42D5-BC20-76132CFFCB76",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8537C6A9-245B-4C88-9E18-AE763BE50480"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "329E5EB2-4A12-4E23-BF3D-8561578221DB"
+    }
+  ],
+  "name": "icon/action/pan_tool_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEFE6C9F-90CA-41E9-80AB-999B5E9A1B12",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F21071D3-DE71-4C05-BC2A-2AE12BC35E93",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/action/pan_tool_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7C50C881-BF65-4C98-9A2D-EA2A190967D6",
+    "guides": [
+    ]
+  }
+}

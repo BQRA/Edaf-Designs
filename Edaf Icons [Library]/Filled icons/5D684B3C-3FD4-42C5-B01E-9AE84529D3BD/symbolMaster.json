@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1E719212-9B69-4E9A-A86E-2FAEE577BC4B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 387,
+  "do_objectID": "5D684B3C-3FD4-42C5-B01E-9AE84529D3BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3FB0233D-B321-40B7-A613-CCC3E469B2FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80456E0B-932F-491B-BC2D-6DB55BBF4D7E",
+    "height": 24,
+    "width": 24,
+    "x": 2168,
+    "y": 373
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9930C7B7-6049-4486-B1E4-819D26589151",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "40C54655-26DB-48DC-A520-C881C503DA25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73499AC8-0BBC-4507-8520-6B1E585C7FC7"
+    }
+  ],
+  "name": "icon/notification/wifi_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0EB2583-1FAE-4170-80F0-EA2B3DF74651",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7545300C-7F3D-41B9-9F87-F76AD74163B8",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/notification/wifi_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D476DF6A-FEEF-4C4F-B838-7AEF1D0BC491",
+    "guides": [
+    ]
+  }
+}

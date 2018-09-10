@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A3E636E5-7055-4D66-BD57-82756D597DF2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 347,
+  "do_objectID": "6BC703C6-2F23-4359-AC7E-27E4B0B216C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6779C1A7-13C6-4592-A9B0-5D20E3077489",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3045CB3D-FDB4-4027-8D06-F9C52CE54BA2",
+    "height": 24,
+    "width": 24,
+    "x": -868,
+    "y": 469
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3E920B7C-9EB0-44C7-80C8-E8EDBBF97164",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C2C2BB6A-C73F-4BE3-AEC4-174DADCABA94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A063E96D-D16F-4498-AB8C-ACB2A0461D46"
+    }
+  ],
+  "name": "icon/action/perm_contact_calendar_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AA285DC-F729-4566-8C7F-10A52B7A5E38",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "78178205-EB06-4529-B8B3-ADE69C68327E",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/action/perm_contact_calendar_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CE1C9CC6-E817-4AC3-9AC6-52BE6DDF01C7",
+    "guides": [
+    ]
+  }
+}

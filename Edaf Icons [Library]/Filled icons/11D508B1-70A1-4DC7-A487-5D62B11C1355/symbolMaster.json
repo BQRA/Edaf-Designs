@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F2175BB4-AA1B-460E-9D6C-31B0FE5AF59B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 356,
+  "do_objectID": "11D508B1-70A1-4DC7-A487-5D62B11C1355",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0B16A33-FB0F-41E0-BB7D-A8355F4207EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67DF2C2D-7900-4BBD-A97C-81F78CE5AD28",
+    "height": 24,
+    "width": 24,
+    "x": 2024,
+    "y": 133
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2F0E762E-6E81-4DFD-9483-9CAF192032DF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "842E3085-FC6E-412F-9183-7960A1D0CC21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96B8FFC8-0A31-4976-9AA5-6C4CD9419757"
+    }
+  ],
+  "name": "icon/notification/airline_seat_legroom_extra_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B61227D4-213E-4CEC-AE71-70F9524006CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65EAC43C-FF80-42CC-A915-06F659F476B9",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/notification/airline_seat_legroom_extra_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "26C2C7B9-1B7C-4FEB-B61C-01E51B9B1517",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3E4E6CD3-DA74-4EDA-8213-8B7DC1338603",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 389,
+  "do_objectID": "FE8B010E-B885-49C8-AC5D-FCB3F8FABD34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47F62714-675A-4751-8B0F-EFDCA9E0C88B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90666A7B-EC50-49E6-A3E2-D9C74FE7F7C3",
+    "height": 24,
+    "width": 24,
+    "x": -444,
+    "y": 85
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B0170F56-671D-4B06-8CE6-941837D46D6A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DD754947-6AC9-4697-8FC5-19AECA995581"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "486E301F-8C69-4165-B6C2-8B54F7F122E8"
+    }
+  ],
+  "name": "icon/av/games_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8400CAF1-953F-4811-9E8B-C0FB00EE63C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0AE72B7-FC83-434D-926D-3C4E8A08B993",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/av/games_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "854BECC7-C140-45E0-8473-826BCDA15BD7",
+    "guides": [
+    ]
+  }
+}

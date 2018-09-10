@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BDAF686D-305B-4A84-9A57-BAEEC3E3B5DE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 424,
+  "do_objectID": "A8EAD4D9-A15E-4346-B54C-4F1B19922BD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD1C2301-7B1C-4D85-88D2-7E8427B98136",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9476B54-E1FB-4895-BF20-D11AFDDE393D",
+    "height": 24,
+    "width": 24,
+    "x": -156,
+    "y": 181
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "23D61A36-F295-48BC-8264-36DC20D61F44",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31624CD3-40B6-402A-A32A-798E6553C773"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8F190A2-3FA3-44FE-8B6E-7F9224D61B51"
+    }
+  ],
+  "name": "icon/av/playlist_play_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE9169D9-BFF3-4743-BBFB-BE3C214EF017",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1CB3AE3-0512-40B0-A7D2-102346596116",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/av/playlist_play_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "219ECFD6-FDF3-46F2-9EF6-6C2F93C119D1",
+    "guides": [
+    ]
+  }
+}

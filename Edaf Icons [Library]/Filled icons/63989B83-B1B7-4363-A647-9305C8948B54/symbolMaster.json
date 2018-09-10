@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "85ED9687-2825-4548-9A78-3CF742DB0E70",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 347,
+  "do_objectID": "63989B83-B1B7-4363-A647-9305C8948B54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D4C5D0D-9272-471D-9F44-7E3019FA9866",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "988D9949-73F5-4DDC-96DD-C3233E6D4F5B",
+    "height": 24,
+    "width": 24,
+    "x": -1108,
+    "y": 229
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F30712D3-00EF-4C7A-9A6C-A2C734AC2496",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A0C5A01E-3E43-461B-A4B5-D8175AB63664"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C9403DB-A170-4EA8-A60F-52617A21ED0E"
+    }
+  ],
+  "name": "icon/action/flight_land_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8313C63-6634-4BFC-B28D-E27F754F5BE3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "01ADEAF7-B79D-4116-89EF-E411B0F609B5",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/action/flight_land_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0DEFE152-01BE-4CE4-843B-1A35C398D3CC",
+    "guides": [
+    ]
+  }
+}

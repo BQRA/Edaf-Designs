@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CAFED136-134B-425E-8E66-7AE43D16088E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 272,
+  "do_objectID": "338A3F75-902D-40E6-9C30-01CAB9B2EE2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7960E1EE-976E-45C5-A858-B5FB32153D5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8155BE51-1E9E-4CF5-BCA7-12CF7184B271",
+    "height": 24,
+    "width": 24,
+    "x": -252,
+    "y": 757
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7085CFE8-D0F1-460C-8B8C-DF5CF56FA787",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3C9E5A81-F043-4FEC-804E-CA7351F21D63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C788DBC-D5AA-4A81-AD86-35F113BE1F56"
+    }
+  ],
+  "name": "icon/communication/stay_primary_portrait_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9C5AAB4-6D64-4348-B560-5A44669FA980",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E692EECC-96FB-4095-84E0-A2CBD5E9615E",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/communication/stay_primary_portrait_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "546014BF-03A6-42E8-AA30-F1BAF42885CA",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9107FA6D-8C3D-48ED-9FA6-5AAA96A62B7C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 438,
+  "do_objectID": "B13B7E88-2232-4F12-8B1B-DF307549F168",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D71ED73-7BC2-4252-BA01-DD0E8B131FE5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17915340-6FAA-49E8-93A0-EB1BC0340B1C",
+    "height": 24,
+    "width": 24,
+    "x": -1156,
+    "y": -107
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B6E2995B-F4FE-41FC-8785-1734EA4A03C6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "642B37BA-4B6E-46B4-B148-49DA538439D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA684651-5558-4AC4-9BBA-AFEF1B4FA55E"
+    }
+  ],
+  "name": "icon/action/alarm_add_24px",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0592B40D-E4B4-49AC-8728-2DE1B6F77428",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7BC662D5-BBF9-454A-94F9-29337B8DA33C",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/action/alarm_add_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "311523F0-F1A1-44DA-8D57-493407D3B905",
+    "guides": [
+    ]
+  }
+}

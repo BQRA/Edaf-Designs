@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BFB49B42-632B-4EA2-B380-09AC35BC0FD1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 365,
+  "do_objectID": "213D60E4-15F2-4861-82E2-A26047F4684A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92B6A321-8595-44B6-A990-2BCCBBD25E51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FE24858-AB14-44E1-ADC8-9EDEBE72F47A",
+    "height": 24,
+    "width": 24,
+    "x": 210,
+    "y": 229
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "82B8264C-E6BE-4772-955B-B2E339A0655F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ED0D1913-893E-4995-82AA-A3F7E83F747F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81279E4D-4458-4002-BB9F-99A97D01C25F"
+    }
+  ],
+  "name": "icon/device/add_to_home_screen_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "166060CF-C232-4953-AF3D-2F765D2EB52F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C1A914A-5ADC-49DD-93DB-71025A5175B2",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/device/add_to_home_screen_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "524879DF-0477-4129-B8BC-F3064BDDDCE5",
+    "guides": [
+    ]
+  }
+}

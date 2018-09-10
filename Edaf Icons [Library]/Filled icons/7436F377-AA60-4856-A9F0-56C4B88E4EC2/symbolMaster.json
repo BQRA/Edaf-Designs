@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D85387BC-FBEB-4DB2-A206-B404EB1E0BDD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 252,
+  "do_objectID": "7436F377-AA60-4856-A9F0-56C4B88E4EC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D418FCEF-B159-4DB2-88C7-3D63A7C76619",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19640294-FAA0-4C60-8700-BA5CAF6B9F76",
+    "height": 24,
+    "width": 24,
+    "x": -396,
+    "y": 757
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "62CCB308-9325-4D1A-83DC-89D8874D7648",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C371AAF3-000A-4650-A5F0-2920077CC660"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C39854C-BDE6-42DE-B949-B22EDA09D2E3"
+    }
+  ],
+  "name": "icon/communication/stay_current_landscape_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "567ED386-AF13-47C4-81C7-5CFCD59A8AD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF0730F1-C957-4A4E-8B1B-7728D2444E8D",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/communication/stay_current_landscape_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C51012D9-EEC2-48FC-A2EF-091027C7F905",
+    "guides": [
+    ]
+  }
+}

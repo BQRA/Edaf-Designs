@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B92E26C2-9412-4C86-9E35-60165017FE05",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 337,
+  "do_objectID": "62EFA452-D653-4C58-BA9A-64A4C734F79A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D5BF520-E31A-421D-B090-0856C91B2F44",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A828B853-3C05-41DC-B901-CF69BC0DA7C9",
+    "height": 24,
+    "width": 24,
+    "x": -1156,
+    "y": 37
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "006BE575-79CB-49A6-95A1-7ACBFE3FC869",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E3B098E0-7B06-4EE8-A750-9F1114589824"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8AF6400-AD7F-46B8-8460-C4F41A94CAC1"
+    }
+  ],
+  "name": "icon/action/card_travel_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC710B29-CEBA-4D0C-8E4A-B51BBF507A51",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE8E2797-A91A-484A-A75A-7C98FB32D744",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/action/card_travel_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "470CE891-BBF6-4441-A3F6-C82A0EA9974E",
+    "guides": [
+    ]
+  }
+}
