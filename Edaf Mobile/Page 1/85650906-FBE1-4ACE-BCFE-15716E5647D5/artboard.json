@@ -27,7 +27,7 @@
     "y": 39
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,9 +42,52 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "73C54812-3C88-4D25-AD93-7E226974F9E8"
+    },
+    {
+      "class": "group",
+      "id": "CD3D8DB8-10A6-415B-8031-1EC0D0B02B08"
+    },
+    {
+      "class": "group",
+      "id": "A336DD8D-D4C2-438B-B705-DA9D9D5E03E8"
+    },
+    {
+      "class": "group",
+      "id": "A71D0202-CFF9-44C4-98DD-2741C2A524D0"
+    },
+    {
+      "class": "group",
+      "id": "4D3A669E-F18A-49E2-ABE2-F22824350EEB"
+    },
+    {
+      "class": "group",
+      "id": "E3242E06-FD91-43CB-816B-5802CDF9488A"
+    },
+    {
+      "class": "group",
+      "id": "17B88F64-75FA-48D5-845A-8D5BAED164CB"
+    }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 21.91666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8.727272727272727,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 359
+  },
   "name": "categories",
   "nameIsFixed": true,
   "presetDictionary": {

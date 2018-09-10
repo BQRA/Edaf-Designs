@@ -1,12 +1,12 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "C4866200-24A7-457E-A97D-62C21AD56901",
-  "name": "Hero White",
+  "do_objectID": "34693D90-051C-433C-974F-A12728C36955",
+  "name": "Caption / White [left]",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "C4866200-24A7-457E-A97D-62C21AD56901",
+    "sharedObjectID": "34693D90-051C-433C-974F-A12728C36955",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -21,17 +21,19 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFUIDisplay-Thin",
-            "size": 81
+            "name": "Roboto-Regular",
+            "size": 12
           }
         },
-        "kerning": -0.6000000238418579,
+        "MSAttributedStringTextTransformAttribute": 0,
+        "kerning": 0.4000000059604645,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 81,
-          "minimumLineHeight": 81
-        }
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },

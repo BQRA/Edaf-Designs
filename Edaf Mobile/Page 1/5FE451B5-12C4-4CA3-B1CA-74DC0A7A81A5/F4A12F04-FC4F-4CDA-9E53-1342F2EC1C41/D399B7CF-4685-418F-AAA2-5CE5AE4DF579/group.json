@@ -14,8 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 48,
+    "height": 72,
+    "width": 72,
     "x": 0,
     "y": 0
   },
@@ -30,6 +30,10 @@
     {
       "class": "shapeGroup",
       "id": "8FA1A5BB-9ADF-4FCF-B135-ECF4006DA375"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC642616-8C75-4A7A-ADCE-24B90BD19C6D"
     },
     {
       "class": "group",

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DB852F43-75A9-47A0-905A-57D3BD846BAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9905834-2F46-475B-8684-01E5878346EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76BE9288-BAC5-4EAB-8B1C-0A6DA1B9DBAD",
+    "height": 24,
+    "width": 24,
+    "x": 20,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/action/dashboard_24px",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "192E0CC9-5A24-45F2-8E73-8FDAA5A267A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3F11A5D-CB84-4E0A-AA56-150CC2CF2DE7",
+  "verticalSpacing": 0
+}

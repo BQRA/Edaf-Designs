@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "9EDC477D-3B55-4414-8D3D-52784EDEF56E",
-  "name": "Subtitle 1 Style",
+  "name": "Subtitle 1 / High Emphasis [left]",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -13,7 +13,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.87,
           "blue": 0,
           "green": 0,
           "red": 0

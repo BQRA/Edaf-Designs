@@ -62,6 +62,21 @@
       "id": "54B8B33F-406F-4F9C-8250-9BDFB731BD11"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 21.91666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8.727272727272727,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 359
+  },
   "name": "Artboard",
   "nameIsFixed": false,
   "resizesContent": false,

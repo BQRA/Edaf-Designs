@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "EB6346A7-E9BC-4AFC-A286-B17D80922FC8",
-  "name": "Overline Style",
+  "name": "Overline / High Emphasis [left]",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -13,7 +13,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.87,
           "blue": 0,
           "green": 0,
           "red": 0

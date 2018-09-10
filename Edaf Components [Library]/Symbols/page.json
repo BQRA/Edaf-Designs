@@ -61,6 +61,10 @@
     {
       "class": "symbolMaster",
       "id": "7C355642-81A3-430C-9E38-F025DB5AD566"
+    },
+    {
+      "class": "text",
+      "id": "C88E3C44-1F3B-4CC0-85F3-D8CB9FCE9729"
     }
   ],
   "name": "Symbols",
